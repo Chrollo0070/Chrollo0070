@@ -3,7 +3,6 @@
 # 👋 Hi, I'm **Elistan Barreto**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;MCA+Student+%F0%9F%8E%93;Game+Developer+%F0%9F%8E%AE;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-
 </div>
 
 ---
